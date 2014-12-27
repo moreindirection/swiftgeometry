@@ -1,0 +1,3 @@
+* SwiftGeometry
+
+Some simple convenience wrappers that extend `CGRect`, `CGPoint` and `CGSize` to make common operations more convenient.
